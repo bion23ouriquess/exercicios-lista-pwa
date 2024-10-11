@@ -1,0 +1,11 @@
+.hora_atual_root{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    color: yellow;
+    background-color: blue;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 16px;
+}

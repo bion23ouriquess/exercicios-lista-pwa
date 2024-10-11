@@ -1,0 +1,7 @@
+.mes_atual_root{
+    display: flex;
+    justify-content: left;
+    color: white;
+    background-color: green;
+    margin: 16px;
+}

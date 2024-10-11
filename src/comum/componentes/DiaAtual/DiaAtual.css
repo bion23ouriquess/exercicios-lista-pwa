@@ -1,0 +1,7 @@
+.dia_atual_root{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: blue;
+    margin: 16px;
+}
