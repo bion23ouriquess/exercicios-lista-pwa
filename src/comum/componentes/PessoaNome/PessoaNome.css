@@ -1,0 +1,7 @@
+.pessoa-nome_root {
+    background-color: orange;
+    color: white;
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+}

@@ -12,8 +12,12 @@ function DataCompletaAtual (){
     mes = mes.toString().padStart(2, '0');
     
     let hora = agora.getHours();
+    
     let minutos = agora.getMinutes();
+    minutos = minutos.toString().padStart(2, '0');
+
     let segundos = agora.getSeconds();
+    segundos = segundos.toString().padStart(2, '0');
     
     return(
         <>

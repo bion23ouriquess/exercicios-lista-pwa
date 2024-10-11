@@ -1,0 +1,7 @@
+.lista-produtos_root {
+    display: flex;
+    justify-content: left;
+    background-color: blueviolet;
+    color: yellow;
+    margin: 16px;
+}
