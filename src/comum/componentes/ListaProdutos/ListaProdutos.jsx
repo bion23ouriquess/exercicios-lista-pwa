@@ -13,13 +13,13 @@ const ListaProdutos = () => {
 
     return (
         <>
-        <div className="lista-produtos_root">
-            <ul>
-                {produtos.map((produtos, index) => (
-                    <li key={index}>{produtos}</li>
-                ))}
-            </ul>
-        </div>
+            <div className="lista-produtos_root">
+                <ul>
+                    {produtos.map((produtos, index) => (
+                        <li key={index}>{produtos}</li>
+                    ))}
+                </ul>
+            </div>
         </>
     )
 }

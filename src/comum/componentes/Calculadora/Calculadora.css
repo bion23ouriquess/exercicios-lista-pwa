@@ -1,0 +1,7 @@
+.calculadora_root{
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: white;
+}

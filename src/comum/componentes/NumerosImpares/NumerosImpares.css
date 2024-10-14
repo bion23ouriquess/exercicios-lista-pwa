@@ -1,0 +1,7 @@
+.numeros-impares_root{
+    margin: 16px;
+    display: flex;
+    justify-content: left;
+    background-color: blue;
+    color: yellow;
+}

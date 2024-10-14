@@ -1,0 +1,15 @@
+.maior-idade_root {
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: yellow;
+}
+
+.menor-idade_root {
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: yellow;
+}
